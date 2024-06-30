@@ -1,2 +1,4 @@
 # CS-300
 Coursework Done in CS-300: Analysis and Design
+
+  For this course, the main objective was to create a software for a school that can print out course information and prerequisites for the course that was searched for. To approach this problem, I used the tree structure method for the storage of the class nodes and easy access to retrieve the infromation, as well as change it. This structure was the best option in terms of reliability for something like a school system. To overcome any roadblocks in these projects, I used the resources provided by SNHU, or trusted external sources. This work has expanded my approach to designing software and developing all around by improving my C++ skills, as well as my knowledge regarding data structures. This class has made me realize how important data structures are in terms of relativity to the customer's needs, but also for the integrity of a software. 
